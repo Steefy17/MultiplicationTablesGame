@@ -1,6 +1,6 @@
 # MultiplicationTablesGame
 
-###This application allows you to train with multiplication tables.
+### This application allows you to train with multiplication tables.
 It performes 3 mode (0 to 5, 0 to 10 and 5 to 10) with different countdowns (10 or 15 seconds)
 
 in the game view, there is your score and the best score you made. When Start is pressed, the timer starts and you have to chose the correct answer. If you fail, your score decrease and the button you touched became red. 
